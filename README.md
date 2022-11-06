@@ -1,1 +1,5 @@
-# 1030510242_BS441_WebYazilimGelistirme-
+Öğrenci Numarası: 1030510242
+
+Öğrenci Adı: Şeyma KOÇ
+
+Ders Adı: BS441 Web Yazılım Geliştirme
